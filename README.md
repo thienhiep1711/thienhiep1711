@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning javascript in deep
 - 💞️ I’m looking to collaborate on good company
 - 📫 How to reach me thienhiep171193@gmail.com
+- 📄 My resume website https://thienhiep1711.github.io/resume-website/
 
 <!---
 thienhiep1711/thienhiep1711 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
